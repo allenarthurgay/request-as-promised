@@ -1,0 +1,23 @@
+{
+    "boss": true,
+    "curly": true,
+    "eqeqeq": true,
+    "expr": true,
+    "globalstrict": true,
+    "immed": true,
+    "latedef": "nofunc",
+    "multistr": true,
+    "newcap": true,
+    "node": true,
+    "onecase": true,
+    "sub": true,
+    "undef": true,
+    "globals": {
+        "after": true,
+        "afterEach": false,
+        "before": false,
+        "beforeEach": false,
+        "describe": true,
+        "it": false
+    }
+}
