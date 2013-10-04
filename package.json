@@ -1,0 +1,33 @@
+{
+    "name": "request-as-promised",
+    "version": "0.0.0",
+    "description": "Http request as promised",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --recursive -R spec -t 1200s"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/allenarthurgay/request-as-promised.git"
+    },
+    "keywords": [
+        "request",
+        "promise",
+        "Q"
+    ],
+    "author": {
+        "name": "Allen Gay"
+    },
+    "license": "BSD",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "q": "0.9.x",
+        "request": "2.25.x"
+    },
+    "devDependencies": {
+        "grunt": "0.4.x",
+        "grunt-contrib-jshint": "0.6.x",
+        "grunt-mocha-test": "0.5.x",
+        "mocha": "1.12.x"
+    }
+}
