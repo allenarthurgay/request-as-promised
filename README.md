@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/allenarthurgay/request-as-promised.png)](https://travis-ci.org/allenarthurgay/request-as-promised)
+
 request-promises
 ================
 
